@@ -9,14 +9,13 @@ A fractal is a geometric object characterized by presenting a structure that is 
 
 Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Driven by recursion, fractals are images of dynamic systems – the pictures of chaos
 
-
-
 ## Methodology
 
 With the 'square' function we define the points of the square and in the 'fractal' function we call the 'square' function and thus we recurse the points.
 
-## References
+## Results 
 
+![Alt text](https://github.com/marielaAriass/dynamicsystems-Fractals-/blob/main/FRACTAL.png 'FRACTAL')
 
 
 ## Toolset
@@ -25,3 +24,6 @@ The project is to be developed by making use of Python 3 libraries, including bu
 * [Matplotlib](https://matplotlib.org/)
 
 * [Numpy](https://numpy.org/)
+
+## References
+
