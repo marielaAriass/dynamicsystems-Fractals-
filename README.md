@@ -13,6 +13,7 @@ Fractals are infinitely complex patterns that are self-similar across different 
 
 ## Methodology
 
+With the 'square' function we define the points of the square and in the 'fractal' function we call the 'square' function and thus we recurse the points.
 
 ## References
 
