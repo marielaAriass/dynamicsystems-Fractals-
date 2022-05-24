@@ -27,3 +27,4 @@ The project is to be developed by making use of Python 3 libraries, including bu
 
 ## References
 
+Exercise of the fractal triangle seen in class (https://classroom.google.com/u/0/c/NDY4ODc2ODY4MjY0)
