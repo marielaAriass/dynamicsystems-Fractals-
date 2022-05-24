@@ -14,6 +14,9 @@ Fractals are infinitely complex patterns that are self-similar across different 
 ## Methodology
 
 
+## References
+
+
 
 ## Toolset
 The project is to be developed by making use of Python 3 libraries, including but not limited to:
